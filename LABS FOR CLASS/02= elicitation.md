@@ -42,6 +42,12 @@
 - What anomalies are currently present in this current booking system?
 ## 6. interview notes
 - Three things learned
-  1. How 
+  1. A student should know before their class that the equipment will be in or not
+  2. The student should be able to know who has equipment for sharing study sessions
+  3. The student should have a time limit because people don't return thigns unless needed
+ 
+- One thing I don't know
+
+  Students should be allowed to book any equipment without permission?
 ## 7. Candidate Requirement
 - The system shall Have an accurate live display of who and what was booked by anyone within the college site
