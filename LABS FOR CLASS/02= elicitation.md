@@ -26,14 +26,22 @@
 | Equipment costs are becoming too great | Head of college
 | How to book the right equipment? | Professor
 ## 4. Information sources
+| Information | Who could answer? | 
+| :--- | :--- |
+| Buying/managing equipment | Administration
+| State of equipment and maintence | Mechanics  
+| Using/Applying equipment | Students
+| Yearly budget for new equipment and to fix equipment | Head of college
+| Which equipment is needed | Professor
 
 ## 5. elocitation questions
-- Questions
 - How does the current booking system for equipment work?
 - What issues are currently active due to the current booking system?
 - What exceptions are arising from the norm due to the current booking system?
 - To fix stated issues, what information is available for us?
 - What anomalies are currently present in this current booking system?
 ## 6. interview notes
-
+- Three things learned
+  1. How 
 ## 7. Candidate Requirement
+- The system shall Have an accurate live display of who and what was booked by anyone within the college site
