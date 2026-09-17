@@ -29,11 +29,11 @@
 
 ## 5. elocitation questions
 - Questions
-. How does the current booking system for equipment work?
-. What issues are currently active due to the current booking system?
-. What exceptions are arising from the norm due to the current booking system?
-. To fix stated issues, what information is available for us?
-. What anomalies are currently present in this current booking system?
+- How does the current booking system for equipment work?
+- What issues are currently active due to the current booking system?
+- What exceptions are arising from the norm due to the current booking system?
+- To fix stated issues, what information is available for us?
+- What anomalies are currently present in this current booking system?
 ## 6. interview notes
 
 ## 7. Candidate Requirement
