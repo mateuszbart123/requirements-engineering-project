@@ -69,3 +69,9 @@ A community organisation manages many sport facilities, they currently use a boo
 - User verification
 - Refund policies
 - Usability laws to see what is required
+
+# 4.2 Requirement
+
+| ID | Requirements | Priority | Source | Rationale | Verification |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| NF01 | a | a | a | a | a |
