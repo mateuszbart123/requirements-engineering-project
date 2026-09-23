@@ -24,11 +24,13 @@
 - System shall have visible contacts
   what contacts should be visible?
 ## functional  requirements
+ | :--- |
  | The system will control bookings of equipment |
  | The system will track all bookings |
  | The system will be usable for staff |
  | The system will work around the facility |
 ## quality requirements
+ | :--- |
  | The system has to be fast, efficient and non-wasteful |
  | The system has to be able to track timestamps and keep logs of bookings |
  | The system has to be easy to use for all sorts of people even with issues |
