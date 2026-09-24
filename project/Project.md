@@ -84,4 +84,30 @@ A community organisation manages many sport facilities, they currently use a boo
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | FR03 | The system shall notify staff facility meaintanace of a booking | High | User expereiance | Allows Facility maintenance to know when they need to get cleaning | Reserve a time slot and check facility maintanace email inbox to see if a notification arrived |
 
+| ID | Requirements | Priority | Source | Rationale | Verification |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| FR04 | The system shall have real-time updates of facility availibility | Must | Problem stated | Removes the issue of not having up-to-date information of availibity | Use user view and book a test timeslot to see if it instantly turns booked |
+
+| ID | Requirements | Priority | Source | Rationale | Verification |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| FR05 | The system shall allow users to cancell their bookings through their own system | Must | Problem stated | Eliminates confusion around cancelling bookings and also reduces staff manual work needed | Cancel a test timeslot to see if it becomes available to be booked again |
+
+| ID | Requirements | Priority | Source | Rationale | Verification |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| FR06 | The system shall enforce unified rules accross every facility in the app | Must | Problem stated | Handles the problem of diffirent facilities having diffirent rulesets for simplicity | Try to book a facility while trying to break hours allowed timeslot to see if system blocks it |
+
+| ID | Requirements | Priority | Source | Rationale | Verification |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| FR07 | The system shall provide an admin dashboard for staff | Must | Scope of system | This solves having multiple systems for staff to quickly make edits, cancellations or bookings within the system | Log into staff account and try to edit a booking that was made |
+
+| ID | Requirements | Priority | Source | Rationale | Verification |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| FR08 | The system shall flag accounts that do multiple cancellations | Medium | Unknowns | This would prevent people from wasting facility resources by flagging them as frequent cancellations | Have a test account book three times and cancel each time to see if system flags |
+
+| ID | Requirements | Priority | Source | Rationale | Verification |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| FR09 | The system shall provide text-to-speech and UI constrasts for ease of use | High | Problem stated | This would solve the hard to use UI while also becoming more accessible for everyone | Have someone test the various UI options to see if texts and images change |
+
+
+
 
