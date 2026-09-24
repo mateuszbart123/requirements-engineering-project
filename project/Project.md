@@ -108,6 +108,32 @@ A community organisation manages many sport facilities, they currently use a boo
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | FR09 | The system shall provide text-to-speech and UI constrasts for ease of use | High | Problem stated | This would solve the hard to use UI while also becoming more accessible for everyone | Have someone test the various UI options to see if texts and images change |
 
+| ID | Requirements | Priority | Source | Rationale | Verification |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| NR01 | The system shall completelty comply with EU/Irish GDPR laws | Must | Assumption | assesses the strict laws regrading data within the country to prevent legal breaches | Rewview system documenation to ensure compliance |
 
+| ID | Requirements | Priority | Source | Rationale | Verification |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| NR02 | The system page should load in under two seconds | High | Assumption | Stops users from frustration and minimizes staff waiting time | Run stress tests on the page and optimise until the page loads under two seconds |
 
+| ID | Requirements | Priority | Source | Rationale | Verification |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| NR03 | The system shall automatically delete user transaction data within 24 hours after booking is finished | Must | Unknown | Satisfies both retention time and also user safety | Run a test booking in the database then remove it and wait 24 hours |
+
+| ID | Requirements | Priority | Source | Rationale | Verification |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| NR04 | The system encrypt all sensitive user data | Must | Problem stated | Avoids unethical data exposure to staff and ensures user data safety | Intercept data during a transaction to see if it's encrypted |
+
+| ID | Requirements | Priority | Source | Rationale | Verification |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| NR01 | The system shall be easy to have a toggle between english and irish | High | Unknowns | This makes sure that the targetted local area is supported | try out the change language button to see if text and images translate well |
+
+| ID | Requirements | Priority | Source | Rationale | Verification |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| BR01 | The system shall block any attempts of cancellation if there is less than 24 hours remaining | Must | Assumptions | Stops facility maintence from wasting time and also prevents money issues with user knowing the cut-off window | Have a test booking try to be cancelled a hour before arrival |
+
+| ID | Requirements | Priority | Source | Rationale | Verification |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| NR01 | The system shall be easy to have a toggle between english and irish | High | Unknowns | This makes sure that the targetted local area is supported | try out the change language button to see if text and images translate well |
+| BR01 | The system shall block any attempts of cancellation if there is less than 24 hours remaining | Must | Assumptions | Stops facility maintence from wasting time and also prevents money issues with user knowing the cut-off window | Have a test booking try to be cancelled a hour before arrival |
 
