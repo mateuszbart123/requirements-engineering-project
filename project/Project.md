@@ -75,65 +75,23 @@ A community organisation manages many sport facilities, they currently use a boo
 | ID | Requirements | Priority | Source | Rationale | Verification |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | FR01 | The system shall prevent conflicting bookings by blocking used time slots | Must | Problems stated | One of the main issues from the last system and also the biggest impact on both staff and user | Automated system testing trying to book the identical slots |
-
-| ID | Requirements | Priority | Source | Rationale | Verification |
-| :--- | :--- | :--- | :--- | :--- | :--- |
 | FR02 | The system shall unique UI versions to staff and the user | Must | Scope of system | Having separate versions where staff can edit and user can only book keeps power balance | Log into the system using a User account and check if they have admin access |
-
-| ID | Requirements | Priority | Source | Rationale | Verification |
-| :--- | :--- | :--- | :--- | :--- | :--- |
 | FR03 | The system shall notify staff facility meaintanace of a booking | High | User expereiance | Allows Facility maintenance to know when they need to get cleaning | Reserve a time slot and check facility maintanace email inbox to see if a notification arrived |
-
-| ID | Requirements | Priority | Source | Rationale | Verification |
-| :--- | :--- | :--- | :--- | :--- | :--- |
 | FR04 | The system shall have real-time updates of facility availibility | Must | Problem stated | Removes the issue of not having up-to-date information of availibity | Use user view and book a test timeslot to see if it instantly turns booked |
-
-| ID | Requirements | Priority | Source | Rationale | Verification |
-| :--- | :--- | :--- | :--- | :--- | :--- |
 | FR05 | The system shall allow users to cancell their bookings through their own system | Must | Problem stated | Eliminates confusion around cancelling bookings and also reduces staff manual work needed | Cancel a test timeslot to see if it becomes available to be booked again |
-
-| ID | Requirements | Priority | Source | Rationale | Verification |
-| :--- | :--- | :--- | :--- | :--- | :--- |
 | FR06 | The system shall enforce unified rules accross every facility in the app | Must | Problem stated | Handles the problem of diffirent facilities having diffirent rulesets for simplicity | Try to book a facility while trying to break hours allowed timeslot to see if system blocks it |
-
-| ID | Requirements | Priority | Source | Rationale | Verification |
-| :--- | :--- | :--- | :--- | :--- | :--- |
 | FR07 | The system shall provide an admin dashboard for staff | Must | Scope of system | This solves having multiple systems for staff to quickly make edits, cancellations or bookings within the system | Log into staff account and try to edit a booking that was made |
-
-| ID | Requirements | Priority | Source | Rationale | Verification |
-| :--- | :--- | :--- | :--- | :--- | :--- |
 | FR08 | The system shall flag accounts that do multiple cancellations | Medium | Unknowns | This would prevent people from wasting facility resources by flagging them as frequent cancellations | Have a test account book three times and cancel each time to see if system flags |
-
-| ID | Requirements | Priority | Source | Rationale | Verification |
-| :--- | :--- | :--- | :--- | :--- | :--- |
 | FR09 | The system shall provide text-to-speech and UI constrasts for ease of use | High | Problem stated | This would solve the hard to use UI while also becoming more accessible for everyone | Have someone test the various UI options to see if texts and images change |
 
-| ID | Requirements | Priority | Source | Rationale | Verification |
+| ID | Non-Functional Requirements | Priority | Source | Rationale | Verification |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | NR01 | The system shall completelty comply with EU/Irish GDPR laws | Must | Assumption | assesses the strict laws regrading data within the country to prevent legal breaches | Rewview system documenation to ensure compliance |
-
-| ID | Requirements | Priority | Source | Rationale | Verification |
-| :--- | :--- | :--- | :--- | :--- | :--- |
 | NR02 | The system page should load in under two seconds | High | Assumption | Stops users from frustration and minimizes staff waiting time | Run stress tests on the page and optimise until the page loads under two seconds |
-
-| ID | Requirements | Priority | Source | Rationale | Verification |
-| :--- | :--- | :--- | :--- | :--- | :--- |
 | NR03 | The system shall automatically delete user transaction data within 24 hours after booking is finished | Must | Unknown | Satisfies both retention time and also user safety | Run a test booking in the database then remove it and wait 24 hours |
-
-| ID | Requirements | Priority | Source | Rationale | Verification |
-| :--- | :--- | :--- | :--- | :--- | :--- |
 | NR04 | The system encrypt all sensitive user data | Must | Problem stated | Avoids unethical data exposure to staff and ensures user data safety | Intercept data during a transaction to see if it's encrypted |
+| NR05 | The system shall be easy to have a toggle between english and irish | High | Unknowns | This makes sure that the targetted local area is supported | try out the change language button to see if text and images translate well |
 
-| ID | Requirements | Priority | Source | Rationale | Verification |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| NR01 | The system shall be easy to have a toggle between english and irish | High | Unknowns | This makes sure that the targetted local area is supported | try out the change language button to see if text and images translate well |
-
-| ID | Requirements | Priority | Source | Rationale | Verification |
+| ID | Bussiness Requirements | Priority | Source | Rationale | Verification |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | BR01 | The system shall block any attempts of cancellation if there is less than 24 hours remaining | Must | Assumptions | Stops facility maintence from wasting time and also prevents money issues with user knowing the cut-off window | Have a test booking try to be cancelled a hour before arrival |
-
-| ID | Requirements | Priority | Source | Rationale | Verification |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| NR01 | The system shall be easy to have a toggle between english and irish | High | Unknowns | This makes sure that the targetted local area is supported | try out the change language button to see if text and images translate well |
-| BR01 | The system shall block any attempts of cancellation if there is less than 24 hours remaining | Must | Assumptions | Stops facility maintence from wasting time and also prevents money issues with user knowing the cut-off window | Have a test booking try to be cancelled a hour before arrival |
-
