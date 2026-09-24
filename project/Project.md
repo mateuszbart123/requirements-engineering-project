@@ -74,4 +74,14 @@ A community organisation manages many sport facilities, they currently use a boo
 
 | ID | Requirements | Priority | Source | Rationale | Verification |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| NF01 | a | a | a | a | a |
+| FR01 | The system shall prevent conflicting bookings by blocking used time slots | Must | Problems stated | One of the main issues from the last system and also the biggest impact on both staff and user | Automated system testing trying to book the identical slots |
+
+| ID | Requirements | Priority | Source | Rationale | Verification |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| FR02 | The system shall unique UI versions to staff and the user | Must | Scope of system | Having separate versions where staff can edit and user can only book keeps power balance | Log into the system using a User account and check if they have admin access |
+
+| ID | Requirements | Priority | Source | Rationale | Verification |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| FR03 | The system shall notify staff facility meaintanace of a booking | High | User expereiance | Allows Facility maintenance to know when they need to get cleaning | Reserve a time slot and check facility maintanace email inbox to see if a notification arrived |
+
+
