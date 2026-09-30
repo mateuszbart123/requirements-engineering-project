@@ -27,7 +27,8 @@
  | Requirements |
  | :--- |
  | The system will control bookings of equipment |
- | The system will track all bookings |
+ | The system will track all bookings availability |
+ | The system will track all bookings returning |
  | The system will be usable for staff |
  | The system will work around the facility |
 ## quality requirements
