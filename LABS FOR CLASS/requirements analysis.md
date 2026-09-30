@@ -38,6 +38,6 @@
  | The system has to be easy to use for all sorts of people even with issues |
  | The system has to be connected to the facility via internet and the database |
 ## project application
-These requirements forced the project to change in various ways. Making an easy to use Ai, having good networking behind the scenes and a instant experiance for both staff and student
+These requirements forced the project to change in various ways. Making an easy to use Ui, having good networking behind the scenes and a instant experiance for both staff and student
 ## reflection
 It was hard to turn stakeholder needs and concerns and problems surronding the system into concrete actionable steps that could be taken in building the new system
