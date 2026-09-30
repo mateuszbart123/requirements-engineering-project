@@ -4,6 +4,6 @@ Name: Mateusz Bartczak
 ## Module
 Requirements Engineering
 ## Project Status
-Week 1 — Initial discovery
+Week 1 - 4 complete
 ## Repository Purpose
 Project work for requirements engineering class
