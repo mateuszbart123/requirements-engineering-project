@@ -100,7 +100,7 @@ A community organisation manages many sport facilities, they currently use a boo
 
 # 4.3 Requirements Modelling
 ## Use Case Diagram
-<img width="543" height="422" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/7e505fb4-0e7c-4735-8a57-9e5d103077cc" />
+<img width="543" height="422" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/7e505fb4-0e7c-4735-8a57-9e5d103077cc" /> </img><br>
 ## Use case Narrative
 | Use-case Element | Description |
 | :--- | :--- |
