@@ -1,4 +1,4 @@
-<img width="543" height="422" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/7e505fb4-0e7c-4735-8a57-9e5d103077cc" />
+
 # 4.1 Problem, Stakeholders and Goals
 ## 1. Current Situation.
 
