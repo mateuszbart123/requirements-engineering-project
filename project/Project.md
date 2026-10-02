@@ -95,3 +95,25 @@ A community organisation manages many sport facilities, they currently use a boo
 | ID | Bussiness Requirements | Priority | Source | Rationale | Verification |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | BR01 | The system shall block any attempts of cancellation if there is less than 24 hours remaining | Must | Assumptions | Stops facility maintence from wasting time and also prevents money issues with user knowing the cut-off window | Have a test booking try to be cancelled a hour before arrival |
+
+
+# 4.3 Requirements Modelling
+## Use Case Diagram
+
+## Use case Narrative
+| Use-case Element | Description |
+| :--- | :--- |
+| Use-case name | UC1: Create Facility Booking
+| Primary Actor | User
+| Secondary Actor | Facility Maintence
+| Description | Presents the step-by-step process of a local community user selecting an available sports facility time slot, agreeging to rules and successfully saving saving a booking
+| Pre-Conditions | 1. The user is logged into their system account 2. The target facility has open time slots available on the schedule
+| Post-Conditions | 1. The requested time slot is blocked in the database to prevent conflicts 2. An automated alart gets sent out to facility maintence 3. an email recipt is given to the user who bought the slot
+| Main-success Scenario | 1. User can navigate the user booking calander screen 2. User filters what sort of sports facility they want and gets real-time data of availability 3. User selects an empty open time slot
+4.  The system evaluates the the selection with unified rules, operating hours and rules 5. System displays the selected time summary, total cost, and a terms and conditions checkbox 6. User clicks the checkbox and then clicks "Confirm Booking" 7. System instantly blocks out that time slot in the databse to prevent conflicts 8. The system displays a "Succuessful booking" message and routes a cleaning notice to maintence
+| Extentions | 4a.  Booking rule violation: If the choosen slot exceeds the facilities max allowbale duration 1. The system blocks the confirmation step 2. The system prompts the user to lower their time slot. 7a. Simultaneous booking: If two users book at the second time 1. The system stops the transaction 2. The system displays a slot conflict error 3. The calander refreshes and blocks the taken time slot and then prompts the user to pick a diffirent time slot
+## Activity Diagram
+
+## UML Class Diagram
+
+## Data Flow Diagram
