@@ -1,4 +1,3 @@
-
 # 4.1 Problem, Stakeholders and Goals
 ## 1. Current Situation.
 
@@ -115,5 +114,5 @@ A community organisation manages many sport facilities, they currently use a boo
 ## Activity Diagram
 <img width="683" height="1147" alt="UML activity diagram" src="https://github.com/user-attachments/assets/8bb9cd38-a54e-4052-b4fe-9a976a69afac" /></img><br>
 ## UML Class Diagram
-
+<img width="683" height="1147" alt="UML activity diagram" src="https://github.com/user-attachments/assets/86aa8b6b-b9e8-4887-a739-53ccefcd809c" /></img><br>
 ## Data Flow Diagram
