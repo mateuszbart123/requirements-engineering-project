@@ -113,7 +113,7 @@ A community organisation manages many sport facilities, they currently use a boo
 | Main-success Scenario | 1. User can navigate the user booking calander screen.<br> 2. User filters what sort of sports facility they want and gets real-time data of availability.<br> 3. User selects an empty open time slot.<br> 4. The system evaluates the the selection with unified rules, operating hours and rules.<br> 5. System displays the selected time summary, total cost, and a terms and conditions checkbox.<br> 6. User clicks the checkbox and then clicks "Confirm Booking".<br> 7. System instantly blocks out that time slot in the databse to prevent conflicts<br> 8. The system displays a "Succuessful booking" message and routes a cleaning notice to maintence.
 | Extentions | 4a.  Booking rule violation: If the choosen slot exceeds the facilities max allowbale duration.<br> 1. The system blocks the confirmation step.<br> 2. The system prompts the user to lower their time slot.<br> 7a. Simultaneous booking: If two users book at the second time.<br> 1. The system stops the transaction.<br> 2. The system displays a slot conflict error.<br> 3. The calander refreshes and blocks the taken time slot and then prompts the user to pick a diffirent time slot
 ## Activity Diagram
-
+<img width="683" height="1147" alt="UML activity diagram" src="https://github.com/user-attachments/assets/8bb9cd38-a54e-4052-b4fe-9a976a69afac" /></img><br>
 ## UML Class Diagram
 
 ## Data Flow Diagram
