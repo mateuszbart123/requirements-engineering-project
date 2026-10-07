@@ -1,0 +1,130 @@
+<mxfile host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36">
+  <diagram id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec" name="Page-1">
+    <mxGraphModel dx="2929" dy="1625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1c1d494c118603dd-27" edge="1" parent="1" source="60571a20871a0731-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" target="60571a20871a0731-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60571a20871a0731-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#000000;fontFamily=Verdana;fontSize=12;align=center;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="405" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-32" edge="1" parent="1" source="60571a20871a0731-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Yv6bRv9sU6Dq60KbqHu_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60571a20871a0731-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" value="Administration creates booking in system" vertex="1">
+          <mxGeometry height="60" width="147.5" x="351" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="60571a20871a0731-5" parent="1" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=ellipsePerimeter;outline=end;symbol=terminate;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="405.5" y="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-31" edge="1" parent="1" source="Yv6bRv9sU6Dq60KbqHu_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="Yv6bRv9sU6Dq60KbqHu_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" value="Professor opens up booking system UI" vertex="1">
+          <mxGeometry height="60" width="147.5" x="351" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-30" edge="1" parent="1" source="Yv6bRv9sU6Dq60KbqHu_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Yv6bRv9sU6Dq60KbqHu_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" value="Finds equipment that is needed and selects it" vertex="1">
+          <mxGeometry height="60" width="147.5" x="351" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-8" edge="1" parent="1" source="Yv6bRv9sU6Dq60KbqHu_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="Yv6bRv9sU6Dq60KbqHu_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-11" edge="1" parent="1" source="Yv6bRv9sU6Dq60KbqHu_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Yv6bRv9sU6Dq60KbqHu_-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="50" width="40" x="405" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=21;" value="Available?" vertex="1">
+          <mxGeometry height="30" width="60" x="310" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" value="Prevents booking and shows return time before kicking out of the selected equipment" vertex="1">
+          <mxGeometry height="90" width="170" x="600" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=21;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="493" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-29" edge="1" parent="1" source="Yv6bRv9sU6Dq60KbqHu_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Yv6bRv9sU6Dq60KbqHu_-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" value="Shows when the equipment can be booked and for how much" vertex="1">
+          <mxGeometry height="60" width="147.5" x="351.75" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=21;" value="Yes" vertex="1">
+          <mxGeometry height="30" width="60" x="351" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-28" edge="1" parent="1" source="Yv6bRv9sU6Dq60KbqHu_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Yv6bRv9sU6Dq60KbqHu_-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" value="Clicking agree with the data provided, the professor takes the equipment and has a return date" vertex="1">
+          <mxGeometry height="80" width="193" x="329" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-26" edge="1" parent="1" source="Yv6bRv9sU6Dq60KbqHu_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Yv6bRv9sU6Dq60KbqHu_-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" value="Administration gets notification that equipment is booked" vertex="1">
+          <mxGeometry height="60" width="147.5" x="351.75" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-27" edge="1" parent="1" source="Yv6bRv9sU6Dq60KbqHu_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Yv6bRv9sU6Dq60KbqHu_-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" value="Mechanics check on the equipment before handing it over to the professor" vertex="1">
+          <mxGeometry height="60" width="147.5" x="351" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-23" edge="1" parent="1" source="Yv6bRv9sU6Dq60KbqHu_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Yv6bRv9sU6Dq60KbqHu_-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-24" edge="1" parent="1" source="Yv6bRv9sU6Dq60KbqHu_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Yv6bRv9sU6Dq60KbqHu_-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-16" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="50" width="40" x="404.75" y="865" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=21;" value="Returned on time" vertex="1">
+          <mxGeometry height="30" width="60" x="260" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=21;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="510" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=21;" value="Yes" vertex="1">
+          <mxGeometry height="30" width="60" x="329" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-25" edge="1" parent="1" source="Yv6bRv9sU6Dq60KbqHu_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Yv6bRv9sU6Dq60KbqHu_-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" value="Mechanics get notified to inspect the equipment after use" vertex="1">
+          <mxGeometry height="60" width="147.5" x="351.75" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-37" edge="1" parent="1" source="Yv6bRv9sU6Dq60KbqHu_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Yv6bRv9sU6Dq60KbqHu_-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" value="Administration puts equipment back up on the booking system" vertex="1">
+          <mxGeometry height="60" width="147.5" x="351" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-35" edge="1" parent="1" source="Yv6bRv9sU6Dq60KbqHu_-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Yv6bRv9sU6Dq60KbqHu_-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" value="Professor gets notified that the equipment return is overdue. administration gets notified of late returns" vertex="1">
+          <mxGeometry height="80" width="193" x="590" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-34" edge="1" parent="1" source="Yv6bRv9sU6Dq60KbqHu_-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Yv6bRv9sU6Dq60KbqHu_-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" value="Equipment returned late is recorded" vertex="1">
+          <mxGeometry height="80" width="193" x="590" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-38" edge="1" parent="1" source="Yv6bRv9sU6Dq60KbqHu_-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="60571a20871a0731-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yv6bRv9sU6Dq60KbqHu_-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" value="Availability of equipment is back" vertex="1">
+          <mxGeometry height="60" width="147.5" x="351.75" y="1170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
