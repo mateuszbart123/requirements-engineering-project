@@ -6,4 +6,4 @@ Requirements Engineering
 ## Project Status
 Week 1 - 4 complete
 ## Repository Purpose
-Project work for requirements engineering class
+Project work and class work for requirements engineering class
