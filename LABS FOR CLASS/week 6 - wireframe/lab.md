@@ -8,3 +8,7 @@
 <img width="752" height="312" alt="screen3 drawio (1)" src="https://github.com/user-attachments/assets/e1b93eeb-8f78-4a5b-90fd-5151636c4524" />
 <img width="752" height="312" alt="screen4 drawio" src="https://github.com/user-attachments/assets/7df4e168-31e1-4f1a-8db3-c3b2164f9c8c" />
 <img width="752" height="312" alt="screen5 drawio" src="https://github.com/user-attachments/assets/d97b23ec-2d10-443a-9542-03d75b6ea504" />
+
+## lab findings
+
+Making a visual representation of what a user does allows an easier flow towards how you should map out the system yourself espically seeing the other side instead of all the code and requirements
