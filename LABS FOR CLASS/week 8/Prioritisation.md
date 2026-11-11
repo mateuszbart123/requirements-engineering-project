@@ -89,10 +89,5 @@ Automatic approval is not a Must because staff are responsible for making the de
 - Improved: Students shall be able to complete a booking using only a keyboard.
 
 ## G. My Project Updates
-
-- Section 2: Add or improve two non-functional requirements.
-- Section 5: Explain why those same requirements are important.
-- Section 6.1: Explain two Must/Should/Could decisions.
-- Section 1.5: Add any remaining questions or assumptions.
-- Keep the requirements list between 15 and 25 requirements.
-- Save and commit the changes to GitHub.
+**Section 6 – Prioritisation and Change:** Explain two Must/Should/Could decisions and why I chose them.
+This should be completed following this lab
