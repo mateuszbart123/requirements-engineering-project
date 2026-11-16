@@ -126,6 +126,7 @@ A community organisation manages many sport facilities, they currently use a boo
 <img width="1280" height="720" alt="Slide3" src="https://github.com/user-attachments/assets/90bf01ee-c6bf-47a2-b00c-c88fbc133656" />
 <img width="1280" height="720" alt="Slide4" src="https://github.com/user-attachments/assets/07d3a7ef-e5ff-40e7-a194-f1fcefb28406" />
 <img width="1280" height="720" alt="Slide5" src="https://github.com/user-attachments/assets/af3c51c8-09b1-423d-a68b-5e5410dbbe6b" />
+
 ## Explained
 
 The prototype presents how the main booking process of the system operates, highlighting how a person can can search of facilities than check what times are booked and compelte a booking without needing staff to help out.
