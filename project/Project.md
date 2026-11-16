@@ -141,3 +141,14 @@ The protype itself contains five screens.
 
 The prototype made me confirm what worked together with what, how the booking dates would be handled and also the staff side. It allowed for a visual way to identify if there is anything wrong with the process that was going with my system outline.
 
+# 4.5 Quality Requirements
+
+| ID | Quality area | Requirements | Why it matters |
+|:---|:---|:---|:---|
+|QR01| Security | The System shall encrypt all of the users personal information when stored and transferred| This protects users information from unauthorised access|
+|QR02| Privacy | The System shall automatically delete transaction data within 24 hours after booking is finished| Ensures bank data is not kept more than necessary|
+|QR03| Performance | Main pages of the system should load within two seconds | Makes booking process quicker and more convenient |
+|QR04| Accessibility | The System should provide text-to-speech and colour contrast, following WCAQ 2.2 Guidance| Makes the system easier to use for people with diffirent accessibility needs|
+|QR05| Usability | The System shall allows uers to switch between English and Irish| Allows users to use their perferred language|
+|QR06| Reliability | The System shall prevent two user from booking the same facility for the same time slot| Prvents conflicting bookings and errors|
+|QR07| Usability | The System must present clear booking confirmations and error messages| Allows users to understand whether their booking was successful|
