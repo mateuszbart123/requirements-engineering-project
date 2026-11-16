@@ -152,3 +152,18 @@ The prototype made me confirm what worked together with what, how the booking da
 |QR05| Usability | The System shall allows uers to switch between English and Irish| Allows users to use their perferred language|
 |QR06| Reliability | The System shall prevent two user from booking the same facility for the same time slot| Prvents conflicting bookings and errors|
 |QR07| Usability | The System must present clear booking confirmations and error messages| Allows users to understand whether their booking was successful|
+
+# 4.6 Prioritisation and Change
+
+| ID | Priority | Reason |
+|:---|:---|:---|
+| FR01 - Prevent conflicting bookings | Must | Essential to prevent multiple users booking the same facility at the same time |
+| FR04 - Real-time availability | Must | Users need accurate up to date information before making a booking |
+| FR05 - User cancellation | Must | Users need to be able to manage their bookings |
+| FR07 - Staff admin dashboard | Must | Staff's ned to maange bookings and facility information |
+| Security and GDPR | Must | User information needs to be protected |
+| FR03 - Maintenance notifications | Should | Helps staff preapre facilities but bookings can still operate without it |
+| FR05 - Flag repeated cancellations | Should | helps staff identify repeated cancellations but not essential to main process |
+| FR05 - Text-to-speech support | Should | improves accessibility but doesn't prevent main process |
+
+Must requirements are essential as they are directly tied into the main booking process of the system, should reuiqrements aren't needed for main processes of the system but improve facility staff and user operations
