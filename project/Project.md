@@ -119,14 +119,24 @@ A community organisation manages many sport facilities, they currently use a boo
 ## Data Flow Diagram
 <img width="490" height="512" alt="DataFlow Diagram drawio" src="https://github.com/user-attachments/assets/bb42c45e-34b9-4581-a4dc-8860e3be23d2" /></img><br>
 
-4.4 Prototype
+# 4.4 Prototype
 
 <img width="1280" height="720" alt="Slide1" src="https://github.com/user-attachments/assets/9d1ea4ea-464c-4ad8-8fe1-a4fcefd51016" />
 <img width="1280" height="720" alt="Slide2" src="https://github.com/user-attachments/assets/ea13c312-e18d-42f0-9521-bbd5ecf28bdf" />
 <img width="1280" height="720" alt="Slide3" src="https://github.com/user-attachments/assets/90bf01ee-c6bf-47a2-b00c-c88fbc133656" />
 <img width="1280" height="720" alt="Slide4" src="https://github.com/user-attachments/assets/07d3a7ef-e5ff-40e7-a194-f1fcefb28406" />
 <img width="1280" height="720" alt="Slide5" src="https://github.com/user-attachments/assets/af3c51c8-09b1-423d-a68b-5e5410dbbe6b" />
+## Explained
 
+The prototype presents how the main booking process of the system operates, highlighting how a person can can search of facilities than check what times are booked and compelte a booking without needing staff to help out.
 
+The protype itself contains five screens.
 
+- Find a facility: This allows the user to pick out the facility of their liking ranging from what type of facility they want to what location they wish to use and in which language and accessability settings
+- Check live availability:  The user can select the date and time of when they want to book the facility, the screen is colour-coded showcasing that red is filled and green is available to be booked
+- Review booking details: The system checks for the  selected time against the facility rules to ensure everything goes smoothly before display a booking details to the user giving them an option to agree with the terms
+- Booking Confirmed: Automatically the system saves the booking and gives out the user a clear confirmation that their booking was successful with a refrence number incase to contact support if issues arise or want the booking to be cancelled
+- Staff maintenance notification:  A confirmed booking is also sent out to the staff who maintain the facility to have enough time to prepare the facility before the user arrives to use it keeping it in pristine condition for the user
+
+The prototype made me confirm what worked together with what, how the booking dates would be handled and also the staff side. It allowed for a visual way to identify if there is anything wrong with the process that was going with my system outline.
 
