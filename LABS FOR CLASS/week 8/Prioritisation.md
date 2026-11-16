@@ -33,8 +33,6 @@
 | NFR-C02 | Students shall be able to complete a booking using only a keyboard. | Check accessibility needs. | Test keyboard navigation using WCAG 2.2 SC 2.1.1. |
 | NFR-C03 | Only authorised staff shall be able to view student booking details. | Confirm staff access permissions. | Test different user accounts. |
 
-**Source:** [PROPOSED — confirm with stakeholders]
-
 ### Quick checklist
 - [ ] Each requirement has one main purpose.
 - [ ] Requirements are clear.
