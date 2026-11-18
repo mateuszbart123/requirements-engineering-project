@@ -28,3 +28,32 @@
 | FR04 | Workshop organisers must be able to review requests and approve or reject them. | Workshop Organiser | Case description | Submit a request and check that the organiser can approve or reject. |
 | FR05 | Workshop organisers must be able to maintain workshop details. | Workshop Organiser | Case description | Check that the organiser can update workshop information. |
 | NFR-C01 | The system should be easy for residents to understand and navigate when browsing workshops and submitting requests. | Resident | Suggested quality requirement requiring stakeholder approval | Ask residents to complete basic tasks and collect feedback. |
+
+## 4. Write Stories and Testable Criteria
+
+### Story 1 – Browsing and Filtering Workshops (FR01)
+
+As a resident and user of this workshop, I want the ability to browse and filter workshops by topic and date so that I can find workshops that interest me and not general workshops.
+
+### Acceptance Criteria
+
+1. Given that there are workshops available, when a resident opens the workshop list, then the system will display available workshops.
+2. Given that a resident selects a topic or date, when they apply the filter, the system will display workshops matching the selected filter they inputted.
+
+### Story 2 – Submit a Workshop Request (FR03)
+
+As a resident, I want the ability to submit a request for one workshop place using my information so that I can request to attend the workshop.
+
+### Acceptance Criteria:
+
+1. Given that a resident has selected a workshop, when the resident enters their name and contact email and then submits the request, then the system will record the request.
+2. Given that a resident submits a request, when the request has been recorded, then the system will make it available for the workshop organiser to review.
+
+### Story 3 – Approve or Reject Requests (FR04)
+
+As a workshop organiser, I want to review workshop requests and also approve or reject them so that I can manage attendance requests easily.
+
+### Acceptance Criteria:
+
+1. Given that a resident has fully submitted a request, when the organiser approves it, then the system will record the request as approved.
+2. Given that a resident has fully submitted a request, when the organiser rejects it, then the system will record the request as rejected.
