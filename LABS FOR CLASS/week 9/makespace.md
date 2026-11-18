@@ -57,3 +57,23 @@ As a workshop organiser, I want to review workshop requests and also approve or 
 
 1. Given that a resident has fully submitted a request, when the organiser approves it, then the system will record the request as approved.
 2. Given that a resident has fully submitted a request, when the organiser rejects it, then the system will record the request as rejected.
+
+
+## 5. Build a Prioritised Product Backlog
+
+| Order | ID | Item / Story | Status | Priority | Rationale |
+|---|---|---|---|---|---|
+| 1 | FR01 | Residents can browse and also filter workshops by topic and date. | Supported | High | Residents need to find workshops that interest them personally. |
+| 2 | FR03 | Residents can submit a request for one workshop place. | Supported | High | This is the main purpose of the booking request service described. |
+| 3 | FR04 | Organisers can review and also approve or reject workshop requests. | Supported | High | Organisers need to manage requests and decide who receives a place to ensure quality. |
+| 4 | FR02 | Residents can view workshop titles, venues, dates and remaining places. | Supported | Medium | Residents need workshop information before submitting a request. |
+| 5 | FR05 | Organisers can maintain workshop details easily. | Supported | Medium | Organisers need to keep workshop information up to date. |
+| 6 | C01 | Allow residents to make group reservations together. | Candidate - Unapproved | Future consideration | The centre manager must decide whether group bookings are allowed. |
+| 7 | C02 | Introduce cancellation arrangements for workshop places. | Candidate - Unapproved | Future consideration | The centre manager must confirm cancellation rules and any deadlines or fees. |
+| 8 | C03 | Introduce automated workshop reminders. | Candidate - Unapproved | Future consideration | The reminder and arrangements need to be agreed with the relevant stakeholders. |
+
+### Justification for the First Two Priorities
+
+FR01 is the highest priority because residents need to be able to find and browse workshops before they can request a place. Otherwise residents would struggle to discover workshops that interest them.
+
+FR03 is the second priority because submitting a request is the main purpose of the proposed service. It allows residents to request a place at workshops.
