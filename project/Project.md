@@ -178,3 +178,28 @@ This change impacts user tracking byt changing the system from flagging to an au
 Requirements: Add a new function requirement that allows staff to unban suspended users, change policy so account flags are kept but transactions and info are still deleted after 24 hours.
 UML Diagram: add a noShowUp count that tracks integer and also a isSuspended boolean, for users that have action taken against them.
 Activity diagram: Add a validation check during login/block selection to prevent blocked users.
+
+
+# 4.7 Agile Requirements 
+
+## Real-time booking conflict and prevention
+- User story:
+- As a locale looking to book a facility, I don't want to deal with the issues of my bookings being conflicted and needing to contact staff
+- Criteria:
+- Available slots appear green and booked slots appear red in real time.
+- Confirming a booking instantly makes the the slot red for all other users
+- When two users click the same booking, the one later gets an error message and gets sent back to the calendar
+
+## Cancellation of booked facility with 24 hour cut-off
+- User Story:
+- As a customer who has booked a facility, If an issue arises and I can't attend my booking time then I want the option to cancel the booking myself to have to call staff or email them
+- Criteria:
+- Bookings cancelled before the 24 hour cut-off  are removed without an issue and the slot instantly becomes green for other users to book
+- trying to cancel within the 24 hour cut-off causes the screen to display a policy message stating that the booking cancellation is too late
+
+## Staff overrides
+- User Story:
+- As a staff member, I want the ability to modify the dates and facilities available without needing to go many layers of managers for basic actions to make my work easier
+- Criteria:
+- Only verified staff memebers can access the admin override features.
+- any booking changes or cancellations by the staff are instantly displayed live for every other user without needing extra manual steps
