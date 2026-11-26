@@ -217,3 +217,13 @@ Activity diagram: Add a validation check during login/block selection to prevent
 - Conflciting requirements: NR03 + FR08: Deleting user data within 24 hours was conflicting with repeat cancellations flagging which was solved by making deleting only sensetive data
 - Ambiguous requirements:  FR06 + FR09: Tied contrast rules to the WCAG 2.2 standard and configured each unified rule set to be consistently applied
 - Assumption requirements: Added user login as the only pre-condition to the entire system but explained with diagrams
+
+# 4.9 Use of AI
+
+## Use cases
+
+- Clarifying requirements of the project in each section
+- Explaining requirements engineering concepts
+- Grammar and spelling assistance of my written words
+- Transferring github into project template word doc
+- Identify pieces I overlooked and feedback on marking scheme compared to my work
