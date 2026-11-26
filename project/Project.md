@@ -167,3 +167,14 @@ The prototype made me confirm what worked together with what, how the booking da
 | FR05 - Text-to-speech support | Should | improves accessibility but doesn't prevent main process |
 
 Must requirements are essential as they are directly tied into the main booking process of the system, should reuiqrements aren't needed for main processes of the system but improve facility staff and user operations
+
+## Proposed Change
+One of the key unknowns about this  system is the tracking system for a person not showing up. The client proposes that the system automatically bans a user and to allow booking again, a staff must review it manually to allow booking access again.
+
+### Effect on System
+This change impacts user tracking byt changing the system from flagging to an automatic banning system, staff training will need to be increased to provide training on how to handle user unban requests and data retention rules would need a change to not conflict with the already existing rules that exist and still maintain GDPR standards.
+
+### Changes needed to be made
+Requirements: Add a new function requirement that allows staff to unban suspended users, change policy so account flags are kept but transactions and info are still deleted after 24 hours.
+UML Diagram: add a noShowUp count that tracks integer and also a isSuspended boolean, for users that have action taken against them.
+Activity diagram: Add a validation check during login/block selection to prevent blocked users.
