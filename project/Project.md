@@ -203,3 +203,17 @@ Activity diagram: Add a validation check during login/block selection to prevent
 - Criteria:
 - Only verified staff memebers can access the admin override features.
 - any booking changes or cancellations by the staff are instantly displayed live for every other user without needing extra manual steps
+
+# 4.8 Traceability and Validation
+
+## Traceability
+
+- Prvent booking conflicts -> FR01/ QR06 -> UC1 + activity diagram
+- Enforce booking + cancellation rules -> FR06/BR01 -> UC1 Extension + UML diagram
+- Keep availability up-to-date -> FR04 -> activity diagram
+
+## Final requirements  Review
+
+- Conflciting requirements: NR03 + FR08: Deleting user data within 24 hours was conflicting with repeat cancellations flagging which was solved by making deleting only sensetive data
+- Ambiguous requirements:  FR06 + FR09: Tied contrast rules to the WCAG 2.2 standard and configured each unified rule set to be consistently applied
+- Assumption requirements: Added user login as the only pre-condition to the entire system but explained with diagrams
