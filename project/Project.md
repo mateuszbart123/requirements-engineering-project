@@ -227,3 +227,7 @@ Activity diagram: Add a validation check during login/block selection to prevent
 - Grammar and spelling assistance of my written words
 - Transferring github into project template word doc
 - Identify pieces I overlooked and feedback on marking scheme compared to my work
+
+### How ai was used for project transfer
+<img width="634" height="466" alt="image" src="https://github.com/user-attachments/assets/0af3f527-5e90-43e6-a3ad-db93bf707bb1" />
+
